@@ -1,0 +1,51 @@
+body{
+  background-image: url(https://images.squarespace-cdn.com/content/v1/5aa4cfa450a54f0331abd427/1550470883551-AL5RKUSP0RIA3UG9SUNE/Lights+1.jpg?format=2500w);
+  background-size: cover;
+  font-family: 'EB Garamond', serif;
+}
+
+.h2{
+    font-family: 'Cormorant Garamond', serif;
+    color: aliceblue;
+    text-align: center;
+    font-size: 60px;
+    padding-top: 250px;
+}
+.div{
+    padding-left: 620px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.btn-grad {background-image: linear-gradient(to right, #8e9eab 0%, #eef2f3  51%, #8e9eab  100%)}
+.btn-grad {
+    font-family: 'Cormorant Garamond', serif;
+    color: aliceblue;
+    text-align: center;
+    padding: 20px;
+    cursor: pointer;
+   margin: 4px 2px;
+   display: inline-block;
+   text-align: center;
+   transition: 0.5s;
+   background-size: 200% auto;
+   color: black;            
+   box-shadow: 0 0 20px #eee;
+   border-radius: 10px;
+   font-size: 20px;
+ }
+
+ .btn-grad:hover {
+   background-position: right center; /* change the direction of the change here */
+   color: #fff;
+   text-decoration: none;
+ }
+
+ .h4{
+     color:aliceblue;
+     padding-top: 200px;
+     padding-left: 670px;
+ }
